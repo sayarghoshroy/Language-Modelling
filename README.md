@@ -1,5 +1,7 @@
 # Language Modelling
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Language-Modelling/blob/master/language_modelling.ipynb]
+
 ## Tokenizer implemented using *regex*-es from scratch
 - Considered apostrophes as separate tokens
 - Currency of the form Rs. and $ has been taken care of
