@@ -11,8 +11,8 @@
 - Kneser-Ney Smoothing
 - Interpolation
 - *N*-grams upto order 6 have been considered
-- corpus3.txt contains sentences in standard English
-- corpus4.txt contains assorted tweets
+- corpus_EN.txt contains sentences in standard English
+- corpus_TW.txt contains assorted tweets
 - The language model gets stored in a file named "LM"
 
 ## Visualization of Word Frequency v/s Word Occurence Rank
